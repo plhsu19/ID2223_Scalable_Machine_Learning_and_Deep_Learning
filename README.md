@@ -11,4 +11,4 @@ In this lab assignment I built an image classification model with Inception-v1 C
 I built a toxicity model with LSTM Recurrent Neural Network (RNN) that is able to detect toxic online comments by using TensorFlow/Keras. In addition, this model minimizes unintended bias with respect to mentions of identities that are frequently attacked in online communities.
 
 ### How to use
-1. Clone the repository and run the Jupyter notebook file (.ipynb) in each correponding directory.
+1. Clone the repository and run the Jupyter notebook file (.ipynb) in each directory.
